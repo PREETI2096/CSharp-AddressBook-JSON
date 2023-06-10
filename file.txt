@@ -1,0 +1,4 @@
+firstName,LastName,Address,City,State,zipcode,phoneNumber,email
+usha,a,Navalur,Dharwad,Karnataka,580093,8553256634,pree@gmail.com
+shravi,sn,Navalur,Dharwad,Karnataka,580093,8553256634,pree@gmail.com
+bharti,deshmukh,navanagar,hubli,ap,650098,9087675413,bd@gmail.com
